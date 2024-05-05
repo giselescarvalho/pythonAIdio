@@ -1,15 +1,16 @@
 class Pessoa:
-    def __init__(self, nome, idade):
+    def __init__(self, nome=None, idade=None):
         self.nome = nome
         self.idade = idade
 
-    def criar_apartir_datanasc(self, ano, mes, dia, nome):
-        idade = 2022 - ano
-        return Pessoa(nome, idade)
+    @classmethod
+    def criar_apartir_datanasc(cls, ano, mes, dia, nome):
+       #print(cls)
+       idade = 2024 - ano
+       return cls(nome, idade)
 
-p = Pessoa("Gisele", 20)
+p = Pessoa().criar_apartir_datanasc(1996, 3, 21, "João")
 print(p.nome, p.idade)
-
 
 
 #metodo de classe: de fabrica
