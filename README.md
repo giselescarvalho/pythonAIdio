@@ -27,6 +27,8 @@ Imaginem um mundo onde a Lua paira majestosa no céu noturno, tão próxima que 
 
 Cena 1: Um Céu Dominado pela Lua
 
+<div align="center"><img src="https://github.com/giselescarvalho/pythonAIdio/assets/72405588/2f68afa5-b805-48ab-b369-43e002045542" width="300" height="220"></div>
+
 > Imagem: Uma vista noturna da Terra, com a Lua enorme e brilhante no centro do céu.
 
 Narração: A Lua, nosso fiel satélite natural, sempre exerceu um papel crucial na história da Terra. Sua força gravitacional rege as marés, influencia os climas e até mesmo moldou a evolução da vida em nosso planeta. Mas o que aconteceria se essa influência se intensificasse? Se a Lua se aproximasse apenas 100 km, a distância equivalente a um fio de cabelo em escala cósmica, as consequências seriam dramáticas.
@@ -35,6 +37,8 @@ Narração: A Lua, outrora um símbolo de paz e tranquilidade, se tornaria uma f
 
 Cena 2: Um Sol Mais Fraco, um Mundo Mais Frio
 
+<div align="center"><img src="https://github.com/giselescarvalho/pythonAIdio/assets/72405588/db3afae3-42f3-4263-9c16-cc1bd41e4528" width="300" height="220"></div>
+
 > Imagem: Uma paisagem terrestre banhada por uma luz solar suave e amarelada.
 
 Narração: Enquanto a Lua se aproxima, o Sol, por outro lado, se afasta. Uma mudança aparentemente sutil, mas com efeitos profundos. Com 100 km a menos de distância, a luz solar chegaria à Terra um pouco mais fraca, diminuindo o calor recebido pelo planeta.
@@ -42,6 +46,8 @@ Efeitos: As temperaturas médias cairiam globalmente, alterando drasticamente os
 Narração: A vida na Terra lutaria para se adaptar a esse novo regime climático mais frio e menos propício. Espécies menos resistentes desapareceriam, enquanto outras evoluiriam para sobreviver nas novas condições.
 
 Cena 3: Um Planeta em Caos
+<div align="center"><img src="https://github.com/giselescarvalho/pythonAIdio/assets/72405588/a36874ab-5b41-4cb6-a2e2-9163207c59f5" width="300" height="220"></div>
+<div align="center"><img src="https://github.com/giselescarvalho/pythonAIdio/assets/72405588/2220784f-02d4-4cb8-8527-4f6359690fdf" width="300" height="220"></div>
 
 > Imagem: Uma montagem de desastres naturais: inundações, terremotos, erupções vulcânicas e tempestades de neve.
 
@@ -50,6 +56,7 @@ Efeitos: A sociedade humana seria profundamente impactada. Cidades costeiras ser
 Narração: A Terra, outrora um oásis de vida em meio ao cosmos, se transformaria em um lugar hostil e perigoso, lutando para manter o equilíbrio em um mundo dominado por forças além do controle humano.
 
 Cena 4: Uma Luta pela Sobrevivência
+<div align="center"><img src="https://github.com/giselescarvalho/pythonAIdio/assets/72405588/6824be65-600d-4b75-81aa-1d1f5369ae86" width="300" height="220"></div>
 
 > Imagem: Humanos se unindo em comunidades, construindo abrigos e desenvolvendo novas tecnologias.
 
